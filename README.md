@@ -2,7 +2,9 @@
 ## Preprocessing
 · ✅ original dataset loading
 
-· ✅ Data cleaning (still progressing...)
+· ✅ Data cleaning
+
+· Data visualization (still progressing)
 
 **Result**
 
