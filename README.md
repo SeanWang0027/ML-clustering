@@ -4,7 +4,7 @@
 
 · ✅ Data cleaning
 
-· Data visualization (still progressing)
+· ✅ Data visualization
 
 **Result**
 
