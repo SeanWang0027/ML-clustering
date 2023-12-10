@@ -1,12 +1,16 @@
 # ML-clustering
 ## Preprocessing
 · ✅ original dataset loading
+
 · ✅ Data cleaning
+
 · ✅ Data visualization
 
 ## Models
 · ✅ sklearn model experiments
+
 · ✅ k-means model
+
 
 **Result**
 
