@@ -12,7 +12,7 @@
 · ✅ k-means model
 
 ## Pre
-- More models ($\times$3)
+- More models (*3)
 
 - experiments with IMAGE?
 
