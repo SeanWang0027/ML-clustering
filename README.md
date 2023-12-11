@@ -11,6 +11,10 @@
 
 · ✅ k-means model
 
+## Pre
+- More models ($\times$3)
+
+- experiments with IMAGE?
 
 **Result**
 
